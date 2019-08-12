@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project_1_Doddysatriadi</string>
+
+
+    <string-array name="kabupatenDiJawaBarat">
+        <item>Purwakarta</item>
+        <item>Subang</item>
+        <item>Sumedang</item>
+        <item>Majalengka</item>
+        <item>Cirebon</item>
+        <item>Bandung</item>
+    </string-array>
+
+</resources>
